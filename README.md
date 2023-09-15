@@ -34,6 +34,6 @@ React Hooks
 
  ## Acknowledgments
 
-I would like to express my gratitude to my teacher, [Hitesh Sir](https://www.linkedin.com/in/hiteshchoudhary/), for their guidance and support during the development of this password generator app. Their expertise and assistance have been invaluable in helping me create this project.
+I would like to express my gratitude to my teacher [Hitesh Sir](https://www.linkedin.com/in/hiteshchoudhary/) for their guidance and support during the development of this password generator app. Their expertise and assistance have been invaluable in helping me create this project.
 
 
